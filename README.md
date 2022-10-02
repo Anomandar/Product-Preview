@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github](https://github.com/Bill-Adepoju/Product-Preview)
-- Live Site URL: [live site](https://bill-adepoju.github.io/Product-Preview/)
+- Solution URL: [github](https://github.com/Anomandar/Product-Preview)
+- Live Site URL: [live site](https://anomandar.github.io/Product-Preview/)
 
 ## My process
 
